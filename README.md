@@ -2,6 +2,8 @@
 Testing email notifications
 # Adding a new commit 2
 Testing email notifications 2
+# Adding a new commit 3
+Testing email notifications 3
 # Goof - Snyk's vulnerable demo app
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
